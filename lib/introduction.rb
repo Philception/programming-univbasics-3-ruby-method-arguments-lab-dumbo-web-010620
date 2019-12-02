@@ -12,7 +12,8 @@ end
 
 introduction_with_language_optional = introduction_with_language
 
-
+name = phil
+language = Ruby
 
 
 
